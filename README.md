@@ -33,10 +33,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://github.com/iamdinesh0/Poisson_distribution/assets/88037964/be41fb63-957d-4c9a-9f98-93d95fa908b7)
 
 Output : 
-
 '![image](https://github.com/iamdinesh0/Poisson_distribution/assets/88037964/c1505c53-b495-4881-828e-d86afb9d3cf5)
 
 Results
-
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
